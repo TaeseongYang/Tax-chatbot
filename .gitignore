@@ -1,0 +1,36 @@
+1.1 llm을 활용해 답변을 생성하는 방법.ipynb
+1.2 랭체인 스타일로 프롬프트 작성하는 방법.ipynb
+1.3 답변의 형식을 컨트롤하는 방법.ipynb
+1.4 LCEL을 활용한 랭체인 생성하는 방법.ipynb
+1.5 지금까지 배운 내용 총정리.ipynb
+3.1 langchain_llm_test.ipynb
+3.1.2 환경 설정과 LangChain의 ChatUpstage를 활용한 검증.ipynb
+3.1.3 환경 설정과 LangChain의 ChatOllana를 활용한 검증.ipynb
+3.2 LangChain과 Chroma를 활용한 RAG 구성.ipynb
+3.2.1 Langchain과 Chroma를 활용한 RAG 구성 + Upstage Embeddings.ipynb
+3.3 LangChain 없이 구성하는 RAG의 불편함.ipynb
+3.4 LangChain을 활용한 Vector Database 변경(Chroma에서 Pinecone).ipynb
+3.5 Retrieval 효율 개선을 위한 데이터 전처리.ipynb
+3.6 Retrieval 효율 개선을 위한 키워드 사전 활용방법.ipynb
+5.1 LangSmith를 활용한 LLM Evaluation.ipynb
+2025_2학기_4주차_이론.pptx.pdf
+AI human chunking.ipynb
+Chapter 06_조건문.pdf
+chat_2.py
+chat_4.py
+chat.py
+demo_2.xlsx
+for_streamlit_2.ipynb
+for_streamlit.ipynb
+indi_concat.xlsx
+KGU_AI_Agent_양태성.ipynb
+llm.py
+summarization.ipynb
+tax_with_markdown.docx
+tax_with_table.docx
+tax.docx
+zigzag_review.xlsx
+.env
+/__pycache__
+/chroma
+/chroma-indi
